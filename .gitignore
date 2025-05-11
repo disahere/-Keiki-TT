@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-SGJ25/[Ll]ibrary/
-SGJ25/[Tt]emp/
-SGJ25/[Oo]bj/
-SGJ25/[Bb]uild/
-SGJ25/[Bb]uilds/
-SGJ25/[Ll]ogs/
-SGJ25/[Mm]emoryCaptures/
+SGJ24/[Ll]ibrary/
+SGJ24/[Tt]emp/
+SGJ24/[Oo]bj/
+SGJ24/[Bb]uild/
+SGJ24/[Bb]uilds/
+SGJ24/[Ll]ogs/
+SGJ24/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,7 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-SGJ25/.editorconfig
-SGJ25/UserSettings/Layouts/default-2021.dwlt
-SGJ25/UserSettings/Layouts/CurrentMaximizeLayout.dwlt
-SGJ25/UserSettings/EditorUserSettings.asset
+SGJ24/.editorconfig
+SGJ24/UserSettings/Layouts/default-2021.dwlt
+SGJ24/UserSettings/Layouts/CurrentMaximizeLayout.dwlt
+SGJ24/UserSettings/EditorUserSettings.asset
